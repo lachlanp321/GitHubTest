@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// adding a comment
+
 int main() {
     float x;
     float y;
